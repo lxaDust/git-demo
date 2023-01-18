@@ -1,6 +1,6 @@
-Hello Git!1
-Hello Git!2
-Hello Git!3
-Hello Git!4hot-fix test
-Hello Git!777777777
 Hello Git!
+Hello Git!
+Hello Git!
+Hello Git!
+Hello Git!
+Hello Git!hot-fix test
